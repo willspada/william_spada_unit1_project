@@ -34,9 +34,3 @@ Score | Expectations
 **1** | _Does not meet expectations._
 **2** | _Meets expectations, good job!_
 **3** | _Exceeds expectations_
-
----
-
-# Submission
-
-See [course_info](https://git.generalassemb.ly/datr-625/course_info#project-submission-procedure).
